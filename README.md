@@ -1,12 +1,5 @@
 # PubMed Data Analysis for Case Reports on Renal Anomalies
 
-**Paper Under Review**
-- **Journal**: Radiology Case Reports
-- **Corresponding Author**: Mirsadra Molaei
-- **First Author**: Roseminasadat Moulaei
-- **Date of Submission**: 13th October 2023
-- **Manuscript Number**: RCR-D-23-01504
-
 This repository contains analysis and documentation related to a case report focused on renal anomalies, specifically the L-shaped renal ectopia.
 
 ## Requirements
